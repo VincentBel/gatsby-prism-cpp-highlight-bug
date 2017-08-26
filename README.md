@@ -1,6 +1,8 @@
 ## `gatsby-remark-prismjs` Failed to Highlight Cpp Code
 
-A demo repo to reproduce the bug.
+A demo repo to reproduce the bug:
+
+https://github.com/gatsbyjs/gatsby/issues/1917
 
 ### How to Reproduce
 
