@@ -1,0 +1,15 @@
+# node / npm
+node_modules
+*.log
+
+# phenomic build
+dist
+
+# macOS
+.DS_Store
+
+# gatsby.DS_Store
+# public/
+.gatsby-context.js
+.intermediate-representation/
+.cache/

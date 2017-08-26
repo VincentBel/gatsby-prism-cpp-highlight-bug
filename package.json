@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-prism-cpp-highlight-bug",
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/VincentBel/gatsby-prism-cpp-highlight-bug/issues"
+  },
+  "license": "MIT",
+  "author": "Vincent Bel <buaazqh@gmail.com>",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VincentBel/gatsby-prism-cpp-highlight-bug"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.7",
+    "gatsby-remark-prismjs": "^1.2.1",
+    "gatsby-source-filesystem": "^1.4.4",
+    "gatsby-transformer-remark": "^1.7.2",
+    "lodash": "^4.15.0",
+    "prismjs": "^1.6.0",
+    "react": "^15.6.1"
+  }
+}
